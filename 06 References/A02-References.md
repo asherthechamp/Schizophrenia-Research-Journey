@@ -2,136 +2,384 @@
 
 ## The Phenomenology of Schizophrenia
 
-### 1. Schizophrenia and Phenomenology
+This bibliography contains the principal sources used to develop Article 02.
 
-**Tandon, R., et al. (2024).**  
-The schizophrenia syndrome, circa 2024: A comprehensive review.  
-*Schizophrenia Research.*
-
-Purpose:
-Provides contemporary context for schizophrenia as a heterogeneous, multidimensional syndrome.
+The project distinguishes established empirical findings, theoretical frameworks,
+interpretations, open questions, and original hypotheses.
 
 ---
 
-### 2. Self-Disorder and Schizophrenia Spectrum
+## 1. Contemporary Schizophrenia Framework
 
-**Sass, L. A., & Parnas, J.**  
-Phenomenology of self-disturbances in schizophrenia-spectrum disorders.
+Tandon, R., Nasrallah, H., Akbarian, S., Carpenter, W. T. Jr.,
+DeLisi, L. E., Gaebel, W., Green, M. F., Gur, R. E., Heckers, S.,
+Kane, J. M., Malaspina, D., Meyer-Lindenberg, A., Murray, R.,
+Owen, M., Smoller, J. W., Yassin, W., & Keshavan, M. (2024).
 
-Purpose:
-Foundational phenomenological work concerning disturbances of basic self-experience, including ipseity and hyperreflexivity.
+"The schizophrenia syndrome, circa 2024: What we know and how that informs its nature."
 
----
+Schizophrenia Research, 264, 1–28.
 
-### 3. Self-Disorder / Anomalous Self-Experience
+DOI:
+https://doi.org/10.1016/j.schres.2023.11.015
 
-Contemporary reviews of anomalous self-experience and self-disorder in schizophrenia-spectrum disorders.
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/38086109/
 
-Purpose:
-Examines whether disturbances of basic self-experience represent important features of schizophrenia-spectrum psychopathology.
+Role in Article 02:
+Provides contemporary context for schizophrenia as a heterogeneous,
+multidimensional syndrome.
 
----
-
-### 4. Minimal Self
-
-Research concerning the minimal self, first-person perspective, self-presence, and schizophrenia-spectrum disorders.
-
-Purpose:
-Provides conceptual tools for investigating the most basic structure of subjective experience.
+Evidence classification:
+Established review / contemporary synthesis.
 
 ---
 
-### 5. Auditory Verbal Hallucinations
+## 2. Foundational Phenomenology of Self
 
-Phenomenological research on auditory verbal hallucinations in schizophrenia.
+Sass, L. A., & Parnas, J. (2003).
 
-Key dimensions:
+"Schizophrenia, consciousness, and the self."
 
-- perceived location
-- agency
-- emotional tone
-- controllability
-- frequency
-- relationship to thought
-- subjective meaning
+Schizophrenia Bulletin, 29(3), 427–444.
 
-Purpose:
-Demonstrates that "hearing voices" represents a heterogeneous set of experiences rather than a single uniform phenomenon.
+DOI:
+https://doi.org/10.1093/oxfordjournals.schbul.a007017
 
----
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/14609238/
 
-### 6. Delusions and Aberrant Salience
+Role in Article 02:
+Foundational phenomenological framework concerning self-disorder,
+hyperreflexivity, diminished self-presence, and schizophrenia.
 
-**Kapur, S. (2003).**  
-Psychosis as a state of aberrant salience: A framework linking biology, phenomenology, and pharmacology in schizophrenia.  
-*American Journal of Psychiatry.*
+Evidence classification:
+Phenomenological theory / research framework.
 
-Purpose:
-Introduced an influential framework connecting dopamine dysfunction, aberrant salience, and psychotic experience.
-
-Important qualification:
-Aberrant salience remains a theoretical framework and its specific mechanistic claims remain contested.
+Important:
+The authors' claim that schizophrenia is fundamentally a self-disorder
+is a theoretical position, not an established causal explanation.
 
 ---
 
-### 7. Negative Symptoms
+## 3. Anomalous Self-Experience in Early Schizophrenia
 
-Research on the structure and phenomenology of negative symptoms, including:
+Parnas, J., & Handest, P. (2003).
 
-- avolition
-- anhedonia
-- asociality
-- alogia
-- diminished emotional expression
+"Phenomenology of anomalous self-experience in early schizophrenia."
 
-Purpose:
-Supports the multidimensional understanding of negative symptoms.
+Comprehensive Psychiatry, 44(2), 121–134.
 
----
+DOI:
+https://doi.org/10.1053/comp.2003.50017
 
-### 8. Primary and Secondary Negative Symptoms
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/12658621/
 
-Research distinguishing primary negative symptoms from secondary symptoms associated with:
+Role in Article 02:
+Provides empirical phenomenological investigation of anomalous
+self-experience in early schizophrenia.
 
-- depression
-- anxiety
-- psychosis
-- medication effects
-- substance use
-- social circumstances
-- other clinical factors
-
-Purpose:
-Prevents overinterpretation of observable inactivity or withdrawal.
+Evidence classification:
+Phenomenological empirical research.
 
 ---
 
-### 9. Subjective Experience of Negative Symptoms
+## 4. Self-Disorder and Neurobiology
 
-Recent qualitative research examining first-person experiences of negative symptoms.
+Sass, L. A., & Borda, J. P. (2016).
 
-Purpose:
-Shows why behavioral observations alone may not capture the complete phenomenology of avolition, anhedonia, withdrawal, and diminished motivation.
+"Phenomenology and neurobiology of self disorder in schizophrenia:
+Secondary factors."
+
+Schizophrenia Research, 172(1–3), 34–41.
+
+DOI:
+https://doi.org/10.1016/j.schres.2015.09.025
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/26603059/
+
+Role in Article 02:
+Examines relationships between anomalous self-experience,
+neurocognitive findings, and neurodevelopmental considerations.
+
+Evidence classification:
+Theoretical/interpretive framework.
 
 ---
 
-### 10. Phenomenology and Computational Psychiatry
+## 5. Revised Self-Disorder Model
 
-Research examining relationships between:
+Feyaerts, J., & Sass, L. (2024).
 
-Phenomenology
-→ cognition
-→ computation
-→ neural mechanisms
+"Self-Disorder in Schizophrenia: A Revised View
+(1. Comprehensive Review—Dualities of Self- and World-Experience)."
 
-Purpose:
-Provides a framework for connecting first-person experience with computational and biological investigation without treating any single level as a complete explanation.
+Schizophrenia Bulletin, 50(2), 460–471.
+
+DOI:
+https://doi.org/10.1093/schbul/sbad169
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/38069912/
+
+Role in Article 02:
+Contemporary review of self-disorder and the basic-self-disturbance/
+ipseity-disorder model.
+
+Evidence classification:
+Contemporary phenomenological review.
+
+Important:
+The review describes self-disorders as important phenotypic features;
+this does not establish them as the biological cause of schizophrenia.
+
+---
+
+## 6. Hyperreflexivity and Self-Disorder
+
+Feyaerts, J., & Sass, L. (2024).
+
+"Self-Disorder in Schizophrenia: A Revised View
+(2. Theoretical Revision—Hyperreflexivity)."
+
+Schizophrenia Bulletin.
+
+DOI:
+https://doi.org/10.1093/schbul/sbad170
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/38069907/
+
+Role in Article 02:
+Provides a contemporary theoretical revision of hyperreflexivity
+within phenomenological models of schizophrenia.
+
+Evidence classification:
+Theoretical framework.
+
+---
+
+## 7. Auditory Verbal Hallucinations
+
+Urfer-Parnas, A., et al. (2023).
+
+"Phenomenology of auditory verbal hallucination in schizophrenia:
+An erroneous perception or something else?"
+
+Schizophrenia Research.
+
+DOI:
+https://doi.org/10.1016/j.schres.2023.03.045
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/37024418/
+
+Role in Article 02:
+Examines the lived phenomenology of auditory verbal hallucinations
+and their relationship to ordinary perception and self-experience.
+
+Evidence classification:
+Phenomenological research/review.
+
+---
+
+## 8. Phenomenological Qualities of Auditory Verbal Hallucinations
+
+"Auditory Verbal Hallucinations in Schizophrenia, Part II:
+Phenomenological Qualities and Evolution." (2022)
+
+Journal of Nervous and Mental Disease.
+
+DOI:
+https://doi.org/10.1097/NMD.0000000000001514
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/35383683/
+
+Role in Article 02:
+Provides detailed phenomenological observations concerning
+localization, thought/hallucination overlap, emotional tone,
+complexity, and passivity phenomena.
+
+Evidence classification:
+Phenomenological empirical research.
+
+---
+
+## 9. Aberrant Salience
+
+Kapur, S. (2003).
+
+"Psychosis as a state of aberrant salience:
+A framework linking biology, phenomenology, and pharmacology in schizophrenia."
+
+American Journal of Psychiatry, 160(1), 13–23.
+
+DOI:
+https://doi.org/10.1176/appi.ajp.160.1.13
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/12505794/
+
+Role in Article 02:
+Introduces the influential aberrant-salience framework connecting
+dopamine, salience, phenomenology, delusions, and hallucinations.
+
+Evidence classification:
+Theoretical / heuristic framework.
+
+Important:
+The article should NOT present aberrant salience as an established
+complete mechanism of psychosis.
+
+---
+
+## 10. Aberrant Salience Measurement
+
+Cicero, D. C., Kerns, J. G., et al. (2010).
+
+"The Aberrant Salience Inventory: A new measure of psychosis proneness."
+
+Psychological Assessment.
+
+DOI:
+https://doi.org/10.1037/a0019913
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/20822281/
+
+Role in Article 02:
+Illustrates attempts to operationalize aberrant salience empirically.
+
+Evidence classification:
+Psychometric research.
+
+---
+
+## 11. Negative Symptoms
+
+Galderisi, S., Mucci, A., Buchanan, R. W., & Arango, C. (2018).
+
+"Negative symptoms of schizophrenia: New developments and unanswered
+research questions."
+
+The Lancet Psychiatry, 5(8), 664–677.
+
+DOI:
+https://doi.org/10.1016/S2215-0366(18)30050-6
+
+PMID:
+29602739
+
+Role in Article 02:
+Provides a major contemporary framework for negative symptoms,
+including primary/secondary distinctions and avolition/expressive
+subdomains.
+
+Evidence classification:
+Major review.
+
+---
+
+## 12. Current Negative-Symptom Assessment
+
+Galderisi, S., Mucci, A., Dollfus, S., Nordentoft, M., Falkai, P.,
+Kaiser, S., Giordano, G. M., Vandevelde, A., Nielsen, M., Glenthøj,
+L. B., et al. (2021).
+
+"EPA guidance on assessment of negative symptoms in schizophrenia."
+
+European Psychiatry, 64(1), e23.
+
+DOI:
+https://doi.org/10.1192/j.eurpsy.2021.11
+
+Role in Article 02:
+Supports careful assessment of negative symptoms and distinction
+between primary/persistent and secondary phenomena.
+
+Evidence classification:
+Expert guidance / systematic evidence review.
+
+---
+
+## 13. Subjective Experience of Negative Symptoms
+
+Lyne, J., Piacenza, F., Crowley, P., Smyth, J., O'Donoghue, B.,
+Gaynor, K., & Clarke, M. (2025).
+
+"Negative symptoms in psychosis: A scoping review of qualitative studies."
+
+Schizophrenia Research, 279, 40–49.
+
+DOI:
+https://doi.org/10.1016/j.schres.2025.03.032
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/40158475/
+
+Role in Article 02:
+Provides recent qualitative evidence concerning subjective
+experiences and multifactorial contributors to negative symptoms.
+
+Evidence classification:
+Systematic/scoping review of qualitative research.
+
+---
+
+## 14. Phenomenology and Computational Psychiatry
+
+Corlett, P. R., Horga, G., Fletcher, P. C., Alderson-Day, B.,
+Schmack, K., & Powers, A. R. (2019).
+
+"From Computation to the First-Person: Auditory-Verbal Hallucinations
+and Delusions of Thought Interference in Schizophrenia-Spectrum Psychoses."
+
+Schizophrenia Bulletin.
+
+DOI:
+See PubMed record.
+
+PubMed:
+https://pubmed.ncbi.nlm.nih.gov/30715542/
+
+Role in Article 02:
+Provides a direct conceptual bridge between phenomenological
+description and computational approaches to hallucinations and
+thought interference.
+
+Evidence classification:
+Conceptual review / interdisciplinary framework.
+
+---
+
+## 15. Computational Psychiatry
+
+Stephan, K. E., Iglesias, S., Heinzle, J., & Diaconescu, A. O. (2015).
+
+"Computational neuroimaging strategies for single patient predictions."
+
+NeuroImage.
+
+For the broader computational-psychiatry framework, see also:
+
+Friston, K. J., Stephan, K. E., Montague, R., & Dolan, R. J. (2014).
+
+"Computational psychiatry: The brain as a computational system."
+
+Related computational psychiatry literature should be reviewed as
+Article 03 and later articles develop mechanistic models.
+
+Evidence classification:
+Computational neuroscience framework.
 
 ---
 
 # Evidence Governance
 
-Every scientific claim in Article 02 should be classified internally as one of the following:
+The Schizophrenia Research Journey uses five evidence levels:
 
 1. Established finding
 2. Strong empirical evidence
@@ -139,34 +387,51 @@ Every scientific claim in Article 02 should be classified internally as one of t
 4. Open question
 5. Proposed hypothesis
 
-The following distinction is mandatory:
+These levels must not be collapsed.
 
-> **Phenomenological description is not equivalent to biological explanation.**
+In particular:
 
-Similarly:
+**Phenomenological description ≠ biological mechanism**
 
-> **Association is not causation.**
+**Association ≠ causation**
 
-And:
+**Computational model ≠ established mechanism**
 
-> **A computational model is not automatically an established mechanism.**
+**Theoretical framework ≠ established theory**
 
 ---
 
 # Precision Instability Framework (PIF)
 
-PIF is an original research hypothesis developed within the Schizophrenia Research Journey.
+PIF is an original research hypothesis developed within the
+Schizophrenia Research Journey.
 
-It is **not an established theory of schizophrenia**.
+It is NOT an established theory of schizophrenia.
 
-PIF must therefore remain explicitly separated from established scientific findings throughout the project.
+PIF must therefore remain explicitly separated from established
+scientific findings in all articles, research notes, and knowledge-base
+documents.
+
+The purpose of the project is to investigate whether the hypothesis
+is scientifically useful and whether its predictions survive comparison
+with competing models.
 
 ---
 
-# Reference Verification Status
+# Reference Status
 
-This file is the Article 02 reference framework.
+Bibliographic details in this file have been checked against
+PubMed and/or publisher records where available.
 
-Before publication, each bibliographic entry should be verified against the original publication, with DOI/PubMed information added where appropriate.
+Before final publication:
 
-The final published article should use primary research and authoritative reviews wherever possible.
+- verify every DOI;
+- verify final page ranges;
+- add direct primary-research papers where appropriate;
+- distinguish reviews from original empirical studies;
+- add references to claims introduced during final editing;
+- avoid citing a review when the original study is available and
+  materially relevant.
+
+Last verified:
+2026-08-13
