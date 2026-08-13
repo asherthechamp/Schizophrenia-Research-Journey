@@ -8,7 +8,7 @@ In our first article, we asked a deceptively simple question:
 
 The answer was not a single gene, brain region, neurotransmitter, or biological mechanism.
 
-Instead, we encountered a complex clinical syndrome with substantial variation between people and multiple biological, psychological, and environmental contributors.
+Instead, we encountered a complex clinical syndrome with substantial variation between people and multiple biological, psychological, and environmental contributors. [1]
 
 But that leaves another question.
 
@@ -96,7 +96,7 @@ Auditory verbal hallucinations—commonly described as "hearing voices"—are pa
 
 But phenomenological research has questioned whether the simple description of "hearing something that is not there" captures the diversity of these experiences.
 
-Research has identified substantial variation in perceived location, agency, emotional character, controllability, frequency, and relationship to thought.
+Research has identified substantial variation in perceived location, agency, emotional character, controllability, frequency, and relationship to thought. [7][8]
 
 This immediately raises a deeper question:
 
@@ -148,9 +148,9 @@ A sequence of unrelated events begins to form a pattern.
 
 The world may begin to feel as though it is **pointing toward something**.
 
-This has motivated research into **aberrant salience**—a proposed framework in which otherwise ordinary stimuli acquire unusually strong significance.
+This has motivated research into **aberrant salience**—a proposed framework in which otherwise ordinary stimuli acquire unusually strong significance. [9]
 
-The concept has been influential in psychosis research, particularly in theories linking dopamine dysfunction with altered salience.
+The concept has been influential in psychosis research, particularly in theories linking dopamine dysfunction with altered salience. [9]
 
 But its specific mechanistic claims remain contested.
 
@@ -234,11 +234,11 @@ And perhaps an even deeper one:
 
 > **What makes an experience feel like it belongs to a self?**
 
-This is where phenomenological research has developed concepts such as **ipseity**, **minimal self**, **self-presence**, and **hyperreflexivity**.
+This is where phenomenological research has developed concepts such as **ipseity**, **minimal self**, **self-presence**, and **hyperreflexivity**. [2][3][4][5][6]
 
 These concepts attempt to describe disturbances in the normally implicit first-person structure of experience.
 
-Contemporary research increasingly investigates self-disorder as an important feature of schizophrenia-spectrum psychopathology.
+Contemporary research increasingly investigates self-disorder as an important feature of schizophrenia-spectrum psychopathology. [5][6]
 
 But there is a crucial distinction:
 
@@ -351,7 +351,7 @@ Perhaps social interaction has become aversive.
 
 Perhaps depression or another condition is contributing.
 
-This is why researchers distinguish different components of negative symptoms and, importantly, distinguish **primary** negative symptoms from symptoms that may arise secondarily from other causes.
+This is why researchers distinguish different components of negative symptoms and, importantly, distinguish **primary** negative symptoms from symptoms that may arise secondarily from other causes. [11][12]
 
 The label "negative symptoms" therefore does not provide a complete explanation.
 
@@ -381,7 +381,7 @@ This distinction illustrates why phenomenology and behavioral science need each 
 
 Observable behavior can tell us what someone does.
 
-First-person reports can tell us something about what the experience is like.
+First-person reports can tell us something about what the experience is like. [13]
 
 Neither level is automatically sufficient on its own.
 
@@ -517,7 +517,9 @@ These are computational questions.
 
 And they can potentially connect subjective experience with measurable neural processes.
 
-This gives us a possible research bridge:
+This gives us a possible research bridge. Computational psychiatry provides one possible way of connecting phenomenological observations with formal models of cognition and neural processing. [14][15]
+
+**Possible research bridge:**
 
 **Experience**
 
@@ -541,7 +543,7 @@ Again, this is a framework for investigation, not a claim that every symptom fol
 
 There is another possibility we will eventually investigate.
 
-Many computational theories of perception and cognition involve the idea that the brain must determine how much **weight** to give different sources of information.
+Many computational theories of perception and cognition involve the idea that the brain must determine how much **weight** to give different sources of information. [14][15]
 
 How reliable is the sensory signal?
 
@@ -650,6 +652,41 @@ And perhaps the next question is even more specific:
 > **How does an ordinary brain generate the extraordinary experience of psychosis?**
 
 That is where our next article begins.
+
+---
+
+## Citation Key
+
+[1] Tandon et al. (2024) — contemporary schizophrenia syndrome review.
+
+[2] Sass & Parnas (2003) — schizophrenia, consciousness, and the self.
+
+[3] Parnas & Handest (2003) — anomalous self-experience in early schizophrenia.
+
+[4] Sass & Borda (2016) — phenomenology and neurobiology of self-disorder.
+
+[5] Feyaerts & Sass (2024) — revised view of self-disorder, Part 1.
+
+[6] Feyaerts & Sass (2024) — revised view of self-disorder, Part 2.
+
+[7] Urfer-Parnas et al. (2023) — phenomenology of auditory verbal hallucinations.
+
+[8] *Auditory Verbal Hallucinations in Schizophrenia, Part II* (2022).
+
+[9] Kapur (2003) — aberrant salience framework.
+
+[10] Cicero et al. (2010) — Aberrant Salience Inventory.
+
+[11] Galderisi et al. (2018) — negative symptoms review.
+
+[12] Galderisi et al. (2021) — EPA guidance on negative symptoms.
+
+[13] Lyne et al. (2025) — qualitative research on subjective negative symptoms.
+
+[14] Corlett et al. (2019) — phenomenology and computational psychiatry.
+
+[15] Computational psychiatry literature — broader computational framework.
+
 
 ---
 
