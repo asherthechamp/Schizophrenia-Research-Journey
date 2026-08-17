@@ -6,9 +6,9 @@ We usually imagine perception as something simple.
 
 The world is out there.
 
-Light enters the eyes.
+Light reaches the eyes.
 
-Sound enters the ears.
+Sound reaches the ears.
 
 The brain receives the information.
 
@@ -16,16 +16,16 @@ And we experience reality.
 
 It is an intuitive picture.
 
-But it is not quite how perception works.
+But it is incomplete.
 
-The brain never receives the world directly.
-
-It receives signals.
+The brain does not receive the external world directly. Sensory
+systems provide signals from which neural systems construct
+perceptual representations.
 
 Those signals are incomplete, noisy, and constantly changing.
 
-From them, the nervous system has to construct an interpretation of
-what is happening.
+From them, the nervous system has to construct an interpretation
+of what is happening.
 
 That raises a profound question:
 
@@ -40,7 +40,7 @@ question follows:
 
 ---
 
-# The brain does not simply record reality
+# The Brain Does Not Simply Record Reality
 
 A camera records light.
 
@@ -48,7 +48,7 @@ The brain does something considerably more complicated.
 
 Consider a familiar object.
 
-You recognize it even when:
+You can recognize it even when:
 
 - the lighting changes;
 - part of it is hidden;
@@ -74,7 +74,7 @@ It means that perception is an interpretation constrained by evidence.
 
 ---
 
-# Sensory information is incomplete
+# Sensory Information Is Incomplete
 
 Imagine trying to identify an object from a photograph with half of
 the image missing.
@@ -83,8 +83,8 @@ You might still recognize it.
 
 Why?
 
-Because the missing information can sometimes be supplied by what you
-already know.
+Because the missing information can sometimes be constrained by what
+you already know.
 
 The same principle applies throughout perception.
 
@@ -98,15 +98,15 @@ Sensory information can be:
 
 The nervous system therefore faces a continuous inference problem:
 
-> What is the most likely explanation for the information I am
-> receiving?
+> **What is the most likely explanation for the information I am
+> receiving?**
 
 This question lies at the heart of several computational theories
 of perception.
 
 ---
 
-# A Bayesian way of thinking about perception
+# A Bayesian Way of Thinking About Perception
 
 One mathematical framework for inference is Bayesian inference.
 
@@ -130,8 +130,7 @@ The sound itself may be ambiguous.
 But if you are standing beside a river, you may consider one
 explanation more likely.
 
-If you are standing in a busy city, you may consider another more
-likely.
+If you are standing in a busy city, you may consider another more likely.
 
 The sensory signal has not necessarily changed.
 
@@ -146,7 +145,7 @@ It should not be equated with predictive processing.
 
 ---
 
-# Prediction enters the picture
+# Prediction Enters the Picture
 
 Predictive-processing theories take the idea of inference further.
 
@@ -189,9 +188,13 @@ prediction error, attention, and learning interact.
 
 That distinction matters.
 
+Predictive processing is best understood as a family of related
+computational and theoretical approaches rather than one completed
+theory of the brain.
+
 ---
 
-# Why predict at all?
+# Why Predict at All?
 
 Why would the brain need predictions?
 
@@ -218,21 +221,21 @@ The brain does not simply ask:
 
 > "What signal arrived?"
 
-It may also have to ask:
+It may also need to ask:
 
 > "Given everything I already know, what could have produced this
 > signal?"
 
 ---
 
-# But predictions can also be wrong
+# But Predictions Can Be Wrong
 
 A prediction is not reality.
 
 It is a hypothesis.
 
-When the incoming information conflicts with the prediction, the
-system has an opportunity to update.
+When incoming information conflicts with the prediction, the system
+has an opportunity to update.
 
 This is where prediction error becomes important.
 
@@ -248,7 +251,7 @@ of balancing expectations against evidence.
 
 ---
 
-# The importance of uncertainty
+# The Importance of Uncertainty
 
 Now we reach a deeper problem.
 
@@ -272,7 +275,7 @@ This introduces an important computational concept:
 
 ---
 
-# What is precision?
+# What Is Precision?
 
 In Bayesian and predictive-processing frameworks, precision is broadly
 related to the reliability of information.
@@ -296,11 +299,30 @@ The brain does not necessarily contain a little meter labelled
 Rather, computational models use precision to describe the relative
 reliability or uncertainty associated with information.
 
-This distinction is essential.
+---
+
+# Precision Is Not Simply Attention
+
+Precision and attention are related concepts in some computational
+accounts, but they are not interchangeable.
+
+Attention refers to mechanisms through which processing is selectively
+prioritized.
+
+Precision is a computational quantity describing the estimated
+reliability or uncertainty of information.
+
+Some predictive-processing theories connect attention with
+precision-weighting mechanisms.
+
+But the concepts should not simply be equated.
+
+This distinction will become important when we later examine attention,
+salience, and the Precision Instability Framework.
 
 ---
 
-# Precision changes the balance
+# Precision Changes the Balance
 
 Imagine two sources of information.
 
@@ -330,7 +352,7 @@ So the important question is not simply:
 
 > "Does the brain predict?"
 
-It almost certainly does in some form.
+It almost certainly uses expectations in many contexts.
 
 A more interesting question is:
 
@@ -341,7 +363,7 @@ That is a question about weighting and uncertainty.
 
 ---
 
-# From perception to psychosis
+# From Perception to Psychosis
 
 Now we can return to schizophrenia.
 
@@ -389,9 +411,8 @@ One influential computational hypothesis proposes that internally
 generated expectations can sometimes exert unusually strong influence
 on perceptual experience.
 
-Experimental work has shown that learned perceptual expectations
-can contribute to hallucination-like experiences under certain
-conditions.
+Experimental work has shown that learned perceptual expectations can
+contribute to hallucination-like experiences under certain conditions.
 
 This is important evidence.
 
@@ -399,7 +420,22 @@ But it does not establish the simple statement:
 
 > "Hallucinations are caused by excessive priors."
 
-That would go beyond the evidence.
+The evidence is more complicated.
+
+Some studies have reported stronger influence of prior expectations,
+while others have reported findings more consistent with weakened or
+altered priors.
+
+Different levels of the perceptual hierarchy may also behave
+differently.
+
+Therefore the scientifically useful question is not simply whether
+priors are "too strong."
+
+It is:
+
+> **How are sensory evidence, prior expectations, uncertainty, and
+> their relative weighting altered in different psychotic experiences?**
 
 ---
 
@@ -452,7 +488,7 @@ accumulates—not more certain simply because it is influential.
 
 ---
 
-# Prediction is not the same as explanation
+# Prediction Is Not the Same as Explanation
 
 This distinction is especially important.
 
@@ -483,7 +519,7 @@ one level replaces the others.
 
 ---
 
-# From experience to computation
+# From Experience to Computation
 
 This is where our journey connects Articles 2 and 3.
 
@@ -525,7 +561,7 @@ be connected to measurable neural processes.
 
 ---
 
-# Where does precision become interesting?
+# Where Does Precision Become Interesting?
 
 This brings us to a question that will become increasingly important
 throughout this research journey.
@@ -533,7 +569,7 @@ throughout this research journey.
 Suppose perception depends partly on estimating the reliability of
 different sources of information.
 
-What happens if that estimation becomes unstable?
+What happens if those estimates themselves become unstable?
 
 Not simply:
 
@@ -545,10 +581,10 @@ Not simply:
 
 But perhaps:
 
-> **The system has difficulty consistently determining which
-> information deserves how much weight.**
+> **The system has difficulty consistently determining how much weight
+> different sources of information deserve.**
 
-This is a much more general hypothesis.
+This is a more general hypothesis.
 
 It could potentially affect different domains:
 
@@ -560,7 +596,7 @@ It could potentially affect different domains:
 - cognition;
 - self-processing.
 
-But this is where we must draw a very clear scientific boundary.
+But we must draw a clear scientific boundary.
 
 ---
 
@@ -590,7 +626,7 @@ but when it becomes testable.
 
 ---
 
-# What would PIF have to explain?
+# What Would PIF Have to Explain?
 
 If precision instability were relevant to schizophrenia, we would need
 to ask whether the hypothesis makes useful predictions concerning:
@@ -615,7 +651,7 @@ And that is scientifically valuable.
 
 ---
 
-# Competing explanations
+# Competing Explanations
 
 PIF should therefore be compared with other frameworks, including:
 
@@ -642,11 +678,11 @@ mechanisms.
 
 ---
 
-# The unresolved problem
+# The Unresolved Problem
 
 We began with a simple question:
 
-> How does the brain construct reality?
+> **How does the brain construct reality?**
 
 We now have a more complicated answer.
 
@@ -665,14 +701,14 @@ Hallucinations, delusions, altered salience, disturbances of agency,
 negative symptoms, and cognitive difficulties may not all arise from
 one computational abnormality.
 
-The heterogeneity of schizophrenia is therefore not a nuisance to
-be ignored.
+The heterogeneity of schizophrenia is therefore not simply a nuisance
+to be ignored.
 
 It may be one of the most important clues.
 
 ---
 
-# A different question
+# A Different Question
 
 Perhaps the wrong question is:
 
@@ -717,8 +753,8 @@ computation, and biology.
 
 And one question will follow us into the next articles:
 
-> **What happens when the brain becomes uncertain about what it should
-> trust?**
+> **What happens when the brain's estimates of reliability themselves
+> become unreliable?**
 
 That is where prediction meets uncertainty.
 
@@ -726,7 +762,7 @@ And eventually, precision.
 
 ---
 
-## Scientific Note
+# Scientific Note
 
 Predictive processing, Bayesian inference, aberrant salience, and
 related computational approaches are active areas of scientific
@@ -746,7 +782,7 @@ are correct.
 
 ---
 
-## References
+# References
 
 See:
 
