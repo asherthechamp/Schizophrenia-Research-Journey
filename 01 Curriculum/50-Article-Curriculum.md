@@ -1,264 +1,1233 @@
 # The Schizophrenia Research Journey
+## A Coherent 50-Article Curriculum
 
-# 50-Article Curriculum
+### Through Neuroscience, Computational Psychiatry, AI, and the Human Mind
 
-A six-month progression from the lived experience of schizophrenia to neuroscience, computational psychiatry, AI, and new theoretical models.
-
----
-
-# Module I — Entering the Problem
-
-## Article 01 — What Is Schizophrenia?
-
-Clinical definition, historical evolution, heterogeneity, and why schizophrenia remains difficult to define.
-
-## Article 02 — The Phenomenology of Schizophrenia
-
-What schizophrenia actually involves in perception, thought, emotion, motivation, and selfhood.
-
-## Article 03 — Positive, Negative, Cognitive, and Affective Symptoms
-
-The major symptom dimensions and why the traditional positive/negative distinction is insufficient.
-
-## Article 04 — Psychosis Is Not Synonymous With Schizophrenia
-
-Psychosis across schizophrenia, bipolar disorder, depression, neurological disorders, substances, and other conditions.
-
-## Article 05 — Why Is Schizophrenia So Heterogeneous?
-
-Different symptoms, trajectories, causes, biological signatures, and treatment responses.
+**Project status:** Revised Curriculum  
+**Articles completed:** 1–8  
+**Articles remaining:** 9–50  
+**Total planned articles:** 50
 
 ---
 
-# Module II — The Psychology of Schizophrenia
+# 1. The Central Question
 
-## Article 06 — Delusions: When Beliefs Become Unshakeable
+The Schizophrenia Research Journey is organized around one overarching question:
 
-How abnormal beliefs develop and why delusions cannot be understood simply as false beliefs.
+> **How does a biological brain construct a world, a self, and a sense of meaning—and what happens when these processes become disrupted in schizophrenia?**
 
-## Article 07 — Hallucinations and the Construction of Perception
+Schizophrenia cannot be understood adequately at only one level.
 
-Auditory hallucinations, sensory prediction, inner speech, and internally generated experience.
+It involves:
 
-## Article 08 — Thought Disorder and Disorganized Thinking
+- Biology
+- Development
+- Neural circuits
+- Brain networks
+- Information processing
+- Perception
+- Learning
+- Attention
+- Motivation
+- The sense of self
+- Meaning
+- Subjective experience
 
-Language, semantic networks, working memory, executive function, and abnormalities of thought organization.
+The purpose of this 50-article journey is to move systematically across these levels.
 
-## Article 09 — Negative Symptoms: The Hidden Core of Schizophrenia
+The journey begins with:
 
-Avolition, anhedonia, asociality, blunted affect, and diminished expression.
+> **What is schizophrenia?**
 
-## Article 10 — Cognition and the Schizophrenia Brain
+It then moves toward deeper questions:
 
-Attention, working memory, processing speed, learning, executive function, and social cognition.
+> **What is it like to experience schizophrenia?**
 
----
+> **How does the brain construct reality?**
 
-# Module III — Brain Systems
+> **How does it predict the world?**
 
-## Article 11 — The Brain Networks of Schizophrenia
+> **How does it decide which information to trust?**
 
-Moving beyond individual brain regions toward distributed network dysfunction.
+> **How does it decide what matters?**
 
-## Article 12 — The Dopamine Hypothesis: From Simple Theory to Modern Model
+> **How does it distinguish self from world?**
 
-How the dopamine hypothesis developed and how contemporary versions differ from the classic model.
+> **How do unusual experiences become hallucinations or delusions?**
 
-## Article 13 — Glutamate and the NMDA Receptor Hypothesis
+> **How do distributed brain networks contribute to these processes?**
 
-NMDA receptors, cortical computation, excitation/inhibition, and psychosis.
+> **Can computational models and AI help us understand schizophrenia?**
 
-## Article 14 — GABA, PV Interneurons, and Excitation/Inhibition Balance
+The final goal is not to claim that schizophrenia has been solved.
 
-Inhibitory interneurons and the possibility of disrupted neural coordination.
-
-## Article 15 — The Salience Network and Aberrant Salience
-
-How dopamine, attention, prediction, and significance attribution may interact.
-
----
-
-# Module IV — Development, Genes, and Environment
-
-## Article 16 — Schizophrenia as a Neurodevelopmental Disorder
-
-Developmental trajectories and why adult symptoms may reflect earlier changes.
-
-## Article 17 — Genetics of Schizophrenia
-
-Polygenic risk, rare variants, common variants, heritability, and what genetics can and cannot tell us.
-
-## Article 18 — Environment and Social Determinants
-
-Urbanicity, migration, adversity, trauma, social isolation, and environmental risk.
-
-## Article 19 — Gene × Environment Interaction
-
-Why genetic vulnerability and environmental exposure should not be treated as competing explanations.
-
-## Article 20 — The Developmental Pathway to Psychosis
-
-How vulnerability may interact with development to produce different trajectories.
+The goal is to build an increasingly sophisticated map of the problem.
 
 ---
 
-# Module V — Computational Psychiatry
+# 2. The Narrative Spine
 
-## Article 21 — What Is Computational Psychiatry?
+The entire journey follows this conceptual progression:
 
-Using mathematical and computational models to explain psychiatric symptoms.
+**Schizophrenia**
 
-## Article 22 — The Brain as an Inference Machine
+↓
 
-Bayesian inference, prediction, uncertainty, and perception.
+**Subjective Experience**
 
-## Article 23 — Predictive Processing and Psychosis
+↓
 
-Prediction errors, priors, sensory evidence, and competing predictive-processing accounts.
+**Reality Construction**
 
-## Article 24 — Precision: Why Uncertainty Matters
+↓
 
-Precision weighting, attention, confidence, and the computational meaning of uncertainty.
+**Prediction**
 
-## Article 25 — Active Inference and Schizophrenia
+↓
 
-Action, perception, belief updating, and the active-inference framework.
+**Prediction Error**
 
----
+↓
 
-# Module VI — Internal Experience and the Self
+**Precision**
 
-## Article 26 — The Self in Schizophrenia
+↓
 
-Selfhood, agency, ownership, identity, and disturbances of subjective experience.
+**Learning and Volatility**
 
-## Article 27 — Inner Speech and Auditory Verbal Hallucinations
+↓
 
-The relationship between internal speech, language networks, monitoring, and hallucinations.
+**Salience**
 
-## Article 28 — Thought Insertion and the Sense of Agency
+↓
 
-Why thoughts can sometimes feel as though they originate from somewhere else.
+**Attention**
 
-## Article 29 — Hypermentalization and Social Inference
+↓
 
-Mental-state attribution, uncertainty about others, and social cognition.
+**Conscious Experience**
 
-## Article 30 — Inwardness, Internal Mentation, and Schizophrenia
+↓
 
-Exploring inward-directed cognition, internally generated experience, and their possible relationship to schizophrenia.
+**Self and Agency**
 
----
+↓
 
-# Module VII — Treatment and Intervention
+**Hallucinations and Delusions**
 
-## Article 31 — How Antipsychotics Work
+↓
 
-Dopamine receptors, symptom reduction, limitations, and treatment response.
+**Brain Networks**
 
-## Article 32 — Why Antipsychotics Do Not Fully Solve Schizophrenia
+↓
 
-Persistent negative symptoms, cognitive impairment, functional outcomes, and treatment resistance.
+**Brain Dynamics**
 
-## Article 33 — Clozapine and Treatment-Resistant Schizophrenia
+↓
 
-Why clozapine is unique and what treatment resistance reveals about schizophrenia biology.
+**Biology and Development**
 
-## Article 34 — Psychotherapy and Psychosocial Interventions
+↓
 
-CBT for psychosis, family interventions, social interventions, and rehabilitation.
+**Cognition and Motivation**
 
-## Article 35 — The Future of Schizophrenia Treatment
+↓
 
-Precision psychiatry, biomarkers, neuromodulation, digital phenotyping, and emerging pharmacology.
+**Computational Psychiatry**
 
----
+↓
 
-# Module VIII — Measurement and Neuroscience Methods
+**AI and Brain Data**
 
-## Article 36 — How Scientists Study Schizophrenia
+↓
 
-Clinical scales, behavioral experiments, neuroscience, genetics, and computational approaches.
+**New Hypotheses**
 
-## Article 37 — EEG and the Schizophrenia Brain
+↓
 
-Oscillations, event-related potentials, connectivity, and computational interpretation.
+**The Future of Schizophrenia Research**
 
-## Article 38 — fMRI and Brain Connectivity
-
-Functional connectivity, network organization, limitations, and interpretation.
-
-## Article 39 — From Group Differences to Individual Biomarkers
-
-Why statistically significant group differences do not automatically produce useful clinical biomarkers.
-
-## Article 40 — Reproducibility and the Schizophrenia Literature
-
-Replication, sample size, heterogeneity, publication bias, measurement problems, and open science.
+This structure gives the series a coherent intellectual journey rather than a collection of disconnected articles.
 
 ---
 
-# Module IX — AI and the Future of Research
+# PART I — FOUNDATIONS: WHAT ARE WE TRYING TO UNDERSTAND?
 
-## Article 41 — AI as a Tool for Schizophrenia Research
+## Articles 1–8
 
-Literature discovery, data analysis, hypothesis generation, and scientific synthesis.
-
-## Article 42 — Machine Learning and Psychiatric Prediction
-
-Classification, prediction, dimensionality reduction, validation, and clinical usefulness.
-
-## Article 43 — Digital Phenotyping and Passive Measurement
-
-Smartphones, behavior, speech, sleep, activity, and continuous measurement.
-
-## Article 44 — Large Language Models and Mental Health Research
-
-What LLMs can contribute and where they can mislead researchers.
-
-## Article 45 — Agentic AI for Scientific Research
-
-Multi-agent workflows for literature review, knowledge management, hypothesis generation, and scientific writing.
+This section establishes the conceptual foundation for everything that follows.
 
 ---
 
-# Module X — Open Questions and New Models
+## Article 1 — What Is Schizophrenia?
 
-## Article 46 — Why Is Schizophrenia Still Unsolved?
+**Status: Published**
 
-The central scientific obstacles: heterogeneity, complexity, measurement, and causal inference.
+The journey begins with the most basic question:
 
-## Article 47 — From Neurotransmitters to Computational Mechanisms
+> What exactly is schizophrenia?
 
-Why the field may need explanations connecting molecules, circuits, computation, cognition, and behavior.
+Key themes:
 
-## Article 48 — The Precision Instability Framework
+- Psychiatric diagnosis
+- Positive symptoms
+- Negative symptoms
+- Cognitive symptoms
+- Heterogeneity
+- The limitations of diagnostic categories
+- Schizophrenia as a syndrome rather than necessarily a single disease
 
-Introducing PIF as a proposed framework for understanding instability in precision maintenance across attention, perception, cognition, and motivation.
+Central lesson:
 
-## Article 49 — Toward a Unified Computational Model of Schizophrenia
-
-Can symptoms be connected through common computational principles without oversimplifying the disorder?
-
-## Article 50 — The Future of Schizophrenia Science
-
-Open questions, emerging technologies, computational psychiatry, AI, precision medicine, and fundamentally new models.
-
----
-
-# Curriculum Principle
-
-The curriculum deliberately moves through:
-
-**Experience → Symptoms → Psychology → Brain → Development → Computation → Self → Treatment → Measurement → AI → New Theory**
-
-The final articles revisit earlier material and ask whether a more integrated model is possible.
+> Understanding schizophrenia requires more than memorizing a list of symptoms.
 
 ---
 
-# Scientific Rule
+## Article 2 — What Is the Phenomenology of Schizophrenia?
 
-The curriculum distinguishes established findings from interpretation and speculation.
+**Status: Published**
 
-The **Precision Instability Framework (PIF)** is an original proposed hypothesis within this project. It must not be presented as an established scientific theory unless future evidence supports that conclusion.
+We move from diagnosis to lived experience.
 
+> What is schizophrenia like from the inside?
+
+Key themes:
+
+- Subjective experience
+- Altered perception
+- Hallucinations
+- Delusions
+- Self-disorders
+- Negative symptoms
+- The experience of reality becoming strange
+
+Central transition:
+
+**Diagnosis → Experience**
+
+---
+
+## Article 3 — How Does the Brain Construct Reality?
+
+**Status: Published**
+
+The brain does not simply record the world like a camera.
+
+It actively constructs perception.
+
+Key themes:
+
+- Sensory evidence
+- Prior expectations
+- Inference
+- Perception
+- Experience
+
+Central conceptual sequence:
+
+**Sensory evidence → Prediction → Inference → Perception → Experience**
+
+---
+
+## Article 4 — What Is Predictive Processing?
+
+**Status: Published**
+
+The brain continuously generates expectations about the world.
+
+Key themes:
+
+- Generative models
+- Predictions
+- Sensory evidence
+- Bayesian inference
+- Top-down and bottom-up processing
+
+Central question:
+
+> How can the brain predict the world while remaining sensitive to reality?
+
+---
+
+## Article 5 — What Is Prediction Error?
+
+**Status: Published**
+
+Predictions must sometimes be corrected.
+
+Key themes:
+
+- Mismatch between expectation and observation
+- Learning
+- Updating
+- Surprise
+- Prediction error
+
+Central idea:
+
+**Prediction ≠ Reality**
+
+↓
+
+**Prediction Error**
+
+↓
+
+**Updating**
+
+---
+
+## Article 6 — What Is Precision?
+
+**Status: Published**
+
+Not all information should be treated equally.
+
+Key themes:
+
+- Confidence
+- Reliability
+- Uncertainty
+- Information weighting
+- Precision weighting
+
+Central question:
+
+> How does the brain decide which information to trust?
+
+---
+
+## Article 7 — How Does the Brain Learn When the World Is Changing?
+
+**Status: Published**
+
+The world is not always stable.
+
+The brain must distinguish between:
+
+- Noise
+- Random variation
+- Genuine environmental change
+
+Key themes:
+
+- Volatility
+- Learning rates
+- Uncertainty
+- Stability
+- Adaptation
+
+Central question:
+
+> How does the brain learn when the rules of the world are changing?
+
+---
+
+## Article 8 — What Is Salience—and What Happens When It Goes Wrong?
+
+**Status: Published**
+
+Information can differ not only in reliability, but also in significance.
+
+Key themes:
+
+- Salience
+- Attention
+- Incentive salience
+- Dopamine
+- Aberrant salience
+- Meaning
+- Psychosis
+
+Central question:
+
+> How does the brain decide what matters?
+
+Important distinction:
+
+**Salience ≠ Attention**
+
+**Salience ≠ Prediction Error**
+
+**Salience ≠ Precision**
+
+**Salience ≠ Dopamine**
+
+**Salience ≠ Belief**
+
+These processes interact, but they are not interchangeable.
+
+---
+
+# PART II — ATTENTION, CONSCIOUSNESS, AND THE SELF
+
+## Articles 9–15
+
+If salience helps determine what matters:
+
+> **What information receives processing resources?**
+
+And if information becomes part of experience:
+
+> **Who is the subject having that experience?**
+
+---
+
+## Article 9 — What Is Attention?
+
+Key question:
+
+> How does the brain selectively allocate processing resources?
+
+Themes:
+
+- Selective attention
+- Bottom-up attention
+- Top-down attention
+- Voluntary and involuntary attention
+- Attention and perception
+
+Central transition:
+
+**What matters? → What gets processed?**
+
+---
+
+## Article 10 — How Does the Brain Decide What to Ignore?
+
+A healthy brain must filter information.
+
+It cannot process everything equally.
+
+Themes:
+
+- Sensory filtering
+- Signal versus noise
+- Sensory gating
+- Distractibility
+- Suppression of irrelevant information
+
+Central question:
+
+> What happens when the brain cannot effectively ignore irrelevant information?
+
+---
+
+## Article 11 — What Is Consciousness?
+
+Why does some information become part of conscious experience?
+
+Themes:
+
+- Conscious and unconscious processing
+- Global workspace theories
+- Competing theories of consciousness
+- The limits of consciousness science
+
+---
+
+## Article 12 — What Is the Self?
+
+The journey moves from constructing a world to constructing a subject.
+
+Key question:
+
+> What makes experience feel like it belongs to me?
+
+Themes:
+
+- Selfhood
+- Self-models
+- Embodiment
+- First-person experience
+- Narrative self
+
+---
+
+## Article 13 — What Is the Minimal Self?
+
+Themes:
+
+- Pre-reflective selfhood
+- Self-presence
+- First-person perspective
+- Basic sense of being a subject
+
+This provides an important bridge to schizophrenia phenomenology.
+
+---
+
+## Article 14 — What Is Agency?
+
+Key question:
+
+> Why do my actions feel like my actions?
+
+Themes:
+
+- Sense of agency
+- Voluntary action
+- Motor prediction
+- Action monitoring
+- Comparator models
+
+---
+
+## Article 15 — What Happens When the Sense of Self Becomes Unstable?
+
+Themes:
+
+- Self-disorder
+- Hyper-reflexivity
+- Diminished self-affection
+- Alienation
+- Disturbances in self-world boundaries
+
+Central transition:
+
+**The brain constructs a world—but it must also construct a self within that world.**
+
+---
+
+# PART III — HALLUCINATIONS, VOICES, AND DELUSIONAL MEANING
+
+## Articles 16–21
+
+We now have the conceptual tools to investigate psychotic experiences more deeply.
+
+---
+
+## Article 16 — What Is a Hallucination?
+
+Key question:
+
+> What does it mean to perceive something without an appropriate external stimulus?
+
+Themes:
+
+- Perception
+- Hallucinations across sensory modalities
+- Auditory hallucinations
+- The distinction between hallucination and imagination
+
+---
+
+## Article 17 — Why Do People Hear Voices?
+
+Themes:
+
+- Inner speech
+- Auditory verbal hallucinations
+- Self-monitoring
+- Source monitoring
+- Predictive models
+
+Scientific principle:
+
+> No single theory explains all voice-hearing experiences.
+
+---
+
+## Article 18 — When Does a Thought Feel Like It Isn't Mine?
+
+Themes:
+
+- Thought insertion
+- Thought ownership
+- Agency
+- Alienation
+- Self-monitoring
+
+---
+
+## Article 19 — Why Can Internal Experiences Feel External?
+
+Possible conceptual sequence:
+
+**Internal generation**
+
+↓
+
+**Prediction**
+
+↓
+
+**Self-monitoring**
+
+↓
+
+**Attribution**
+
+↓
+
+**Source judgment**
+
+↓
+
+**Subjective experience**
+
+---
+
+## Article 20 — What Are Delusions?
+
+Themes:
+
+- Belief formation
+- Evidence
+- Conviction
+- Interpretation
+- Resistance to revision
+
+Central question:
+
+> What distinguishes an unusual experience from a fixed unusual belief?
+
+---
+
+## Article 21 — How Does Meaning Become Delusion?
+
+Possible conceptual sequence:
+
+**Event**
+
+↓
+
+**Unexpected significance**
+
+↓
+
+**Search for explanation**
+
+↓
+
+**Meaning**
+
+↓
+
+**Belief**
+
+↓
+
+**Delusional system**
+
+---
+
+# PART IV — THE BRAIN AS A NETWORK
+
+## Articles 22–28
+
+The brain works through distributed systems rather than isolated regions.
+
+---
+
+## Article 22 — Is There a “Schizophrenia Circuit”?
+
+Themes:
+
+- Distributed dysfunction
+- Brain systems
+- Network neuroscience
+- Why one-region explanations are inadequate
+
+---
+
+## Article 23 — What Is the Salience Network?
+
+Themes:
+
+- Anterior insula
+- Anterior cingulate cortex
+- Behavioral relevance
+- Network coordination
+- Switching between brain states
+
+---
+
+## Article 24 — The Default Mode Network and the Inner World
+
+Themes:
+
+- Self-referential thought
+- Internal narrative
+- Mind wandering
+- Autobiographical processing
+
+---
+
+## Article 25 — The Executive Control Network
+
+Themes:
+
+- Cognitive control
+- Working memory
+- Goal maintenance
+- Attention
+- Flexible behavior
+
+---
+
+## Article 26 — What Happens When Brain Networks Stop Coordinating Properly?
+
+Themes:
+
+- Dysconnectivity
+- Functional connectivity
+- Network coordination
+- Communication between systems
+
+---
+
+## Article 27 — Why Does the Brain Need Both Stability and Flexibility?
+
+Too much stability can produce rigidity.
+
+Too much instability can produce chaos.
+
+Healthy cognition requires:
+
+> **Dynamic stability.**
+
+Themes:
+
+- Stability
+- Flexibility
+- Adaptation
+- Network switching
+- Cognitive dynamics
+
+---
+
+## Article 28 — Is Schizophrenia a Disorder of Brain Dynamics?
+
+Themes:
+
+- Dynamic functional connectivity
+- Temporal variability
+- Brain states
+- Instability
+- Network transitions
+
+---
+
+# PART V — DOPAMINE, CIRCUITS, AND DEVELOPMENT
+
+## Articles 29–35
+
+We now move toward biological mechanisms.
+
+---
+
+## Article 29 — What Does Dopamine Actually Do?
+
+Themes:
+
+- Motivation
+- Learning
+- Incentive salience
+- Action
+- Reward prediction
+
+Central distinction:
+
+**Liking ≠ Wanting ≠ Learning**
+
+---
+
+## Article 30 — What Is the Dopamine Hypothesis of Schizophrenia?
+
+Themes:
+
+- Historical dopamine hypothesis
+- Modern dopamine models
+- Psychosis
+- Striatal dopamine
+
+Scientific caution:
+
+> Dopamine is important, but schizophrenia cannot be reduced to dopamine alone.
+
+---
+
+## Article 31 — Glutamate and the NMDA Hypothesis
+
+Themes:
+
+- Glutamate
+- NMDA receptors
+- Synaptic plasticity
+- Learning
+- Cortical function
+
+---
+
+## Article 32 — Excitation and Inhibition: How Does the Brain Stay Balanced?
+
+Themes:
+
+- Excitatory neurons
+- Inhibitory neurons
+- E/I balance
+- Neural stability
+- Cortical dynamics
+
+---
+
+## Article 33 — PV Interneurons and Gamma Oscillations
+
+Themes:
+
+- Parvalbumin interneurons
+- Synchronization
+- Gamma oscillations
+- Temporal coordination
+
+---
+
+## Article 34 — Is Schizophrenia a Neurodevelopmental Disorder?
+
+Themes:
+
+- Developmental vulnerability
+- Early brain development
+- Genetic risk
+- Environmental influences
+- Brain maturation
+
+---
+
+## Article 35 — Why Does Schizophrenia Usually Begin in Late Adolescence or Early Adulthood?
+
+Themes:
+
+- Developmental timing
+- Adolescence
+- Brain maturation
+- Synaptic changes
+- Stress and vulnerability
+
+---
+
+# PART VI — COGNITION, MOTIVATION, AND NEGATIVE SYMPTOMS
+
+## Articles 36–40
+
+Schizophrenia should not be understood only through hallucinations and delusions.
+
+---
+
+## Article 36 — What Are Negative Symptoms?
+
+Themes:
+
+- Avolition
+- Reduced emotional expression
+- Social withdrawal
+- Alogia
+- Anhedonia
+
+---
+
+## Article 37 — Why Is Motivation So Difficult in Schizophrenia?
+
+Themes:
+
+- Effort
+- Reward anticipation
+- Motivation
+- Action selection
+- Cost-benefit computation
+
+---
+
+## Article 38 — What Is Anhedonia?
+
+A crucial distinction:
+
+> Reduced motivation does not necessarily mean an inability to experience pleasure.
+
+Themes:
+
+- Anticipatory pleasure
+- Consummatory pleasure
+- Liking
+- Wanting
+
+---
+
+## Article 39 — What Happens to Cognitive Control in Schizophrenia?
+
+Themes:
+
+- Working memory
+- Executive function
+- Attention
+- Goal maintenance
+- Cognitive flexibility
+
+---
+
+## Article 40 — Why Can Schizophrenia Feel Like a Disorder of the Whole Mind?
+
+Integrate:
+
+- Perception
+- Attention
+- Self
+- Belief
+- Motivation
+- Cognition
+- Social functioning
+
+---
+
+# PART VII — COMPUTATIONAL PSYCHIATRY, AI, AND THE FUTURE
+
+## Articles 41–50
+
+The final section brings the entire journey together.
+
+---
+
+## Article 41 — What Is Computational Psychiatry?
+
+Key question:
+
+> Can mathematical models help explain mental disorders?
+
+Themes:
+
+- Computational models
+- Parameters
+- Mechanisms
+- Psychiatry
+- Individual differences
+
+---
+
+## Article 42 — Can We Build Computational Models of Psychosis?
+
+Themes:
+
+- Bayesian models
+- Generative models
+- Reinforcement learning
+- Predictive processing
+- Active inference
+
+---
+
+## Article 43 — What Is Active Inference?
+
+Themes:
+
+- Prediction
+- Action
+- Sampling the environment
+- Uncertainty
+- Generative models
+
+Central idea:
+
+> Organisms do not merely predict the world—they act within it.
+
+---
+
+## Article 44 — Can AI Help Us Understand Schizophrenia?
+
+Themes:
+
+- Machine learning
+- Pattern recognition
+- Neuroimaging
+- Clinical data
+- Limitations and risks
+
+Scientific caution:
+
+> AI can identify patterns without necessarily explaining causes.
+
+---
+
+## Article 45 — Can Brain Imaging Find Biomarkers for Schizophrenia?
+
+Themes:
+
+- fMRI
+- EEG
+- Biomarkers
+- Replication
+- Heterogeneity
+
+Central question:
+
+> Why is there still no simple brain scan that can diagnose schizophrenia?
+
+---
+
+## Article 46 — What Can Dynamic Brain Connectivity Tell Us?
+
+Themes:
+
+- Static connectivity
+- Dynamic connectivity
+- Temporal variability
+- Brain states
+- Network instability
+
+---
+
+## Article 47 — The Precision Instability Framework: A New Hypothesis
+
+This article clearly distinguishes:
+
+**Established findings**
+
+from
+
+**Theoretical interpretation**
+
+from
+
+**New hypotheses.**
+
+Possible central hypothesis:
+
+> Difficulties in maintaining stable and context-appropriate precision over time may contribute to disturbances across attention, sensory processing, learning, salience, motivation, and brain dynamics.
+
+This remains a hypothesis.
+
+It must be testable and falsifiable.
+
+---
+
+## Article 48 — How Could We Test the Precision Instability Framework?
+
+Themes:
+
+- Hypotheses
+- Predictions
+- Falsifiability
+- fMRI
+- EEG
+- Dynamic functional connectivity
+- Temporal variability
+
+Central principle:
+
+> The goal is not to create a beautiful theory. The goal is to discover whether the theory survives contact with data.
+
+---
+
+## Article 49 — Is There One Schizophrenia—or Many?
+
+Themes:
+
+- Heterogeneity
+- Dimensions
+- Subtypes
+- Individual differences
+- Precision psychiatry
+
+Central question:
+
+> Could “schizophrenia” describe multiple partially overlapping biological and computational pathways?
+
+---
+
+## Article 50 — What Have We Learned About the Mind?
+
+The final synthesis.
+
+Return to the central question:
+
+> How does a biological brain construct reality, a self, meaning, and subjective experience?
+
+And then:
+
+> What happens when these processes become unstable?
+
+Schizophrenia is a problem spanning:
+
+- Biology
+- Development
+- Neural circuits
+- Brain networks
+- Computation
+- Perception
+- Attention
+- Selfhood
+- Meaning
+- Motivation
+- Subjective experience
+
+The journey ends where science itself continues:
+
+> **With better questions.**
+
+---
+
+# 3. Progress Tracker
+
+## Completed
+
+| Article | Title | Status |
+|---|---|---|
+| 1 | What Is Schizophrenia? | Published |
+| 2 | What Is the Phenomenology of Schizophrenia? | Published |
+| 3 | How Does the Brain Construct Reality? | Published |
+| 4 | What Is Predictive Processing? | Published |
+| 5 | What Is Prediction Error? | Published |
+| 6 | What Is Precision? | Published |
+| 7 | How Does the Brain Learn When the World Is Changing? | Published |
+| 8 | What Is Salience—and What Happens When It Goes Wrong? | Published |
+
+## Next
+
+# Article 9 — What Is Attention?
+
+**Salience asks: What matters?**
+
+**Attention asks: What gets processed?**
+
+---
+
+# 4. The Core Intellectual Principle
+
+Every article should connect to the previous article while opening the door to the next one.
+
+The journey should feel like:
+
+> **One long investigation—not fifty disconnected blog posts.**
+
+Each article should answer three questions:
+
+### Where are we coming from?
+
+What concept from the previous article leads naturally here?
+
+### What are we learning now?
+
+What is the central scientific question of this article?
+
+### Where are we going next?
+
+What unanswered question naturally leads into the following article?
+
+---
+
+# 5. Scientific Standards
+
+## 1. Separate evidence from hypothesis
+
+Established research should never be presented as speculation.
+
+Speculation should never be presented as established science.
+
+---
+
+## 2. Avoid single-cause explanations
+
+Schizophrenia is unlikely to have one simple cause.
+
+Investigate interacting mechanisms across multiple levels.
+
+---
+
+## 3. Preserve phenomenology
+
+Brain mechanisms should not replace subjective experience.
+
+The journey must continually connect:
+
+**Brain → Computation → Experience**
+
+---
+
+## 4. Respect heterogeneity
+
+Different people experience schizophrenia differently.
+
+Different biological pathways may contribute to similar clinical diagnoses.
+
+---
+
+## 5. Make theories testable
+
+Theories are useful when they generate predictions.
+
+A framework that cannot be tested should not be treated as a scientific explanation.
+
+---
+
+# 6. Final Curriculum Map
+
+## PART I — Foundations
+
+1. What Is Schizophrenia?
+2. What Is the Phenomenology of Schizophrenia?
+3. How Does the Brain Construct Reality?
+4. What Is Predictive Processing?
+5. What Is Prediction Error?
+6. What Is Precision?
+7. How Does the Brain Learn When the World Is Changing?
+8. What Is Salience—and What Happens When It Goes Wrong?
+
+## PART II — Attention, Consciousness, and Self
+
+9. What Is Attention?
+10. How Does the Brain Decide What to Ignore?
+11. What Is Consciousness?
+12. What Is the Self?
+13. What Is the Minimal Self?
+14. What Is Agency?
+15. What Happens When the Sense of Self Becomes Unstable?
+
+## PART III — Hallucinations and Delusions
+
+16. What Is a Hallucination?
+17. Why Do People Hear Voices?
+18. When Does a Thought Feel Like It Isn't Mine?
+19. Why Can Internal Experiences Feel External?
+20. What Are Delusions?
+21. How Does Meaning Become Delusion?
+
+## PART IV — Brain Networks and Dynamics
+
+22. Is There a “Schizophrenia Circuit”?
+23. What Is the Salience Network?
+24. The Default Mode Network and the Inner World
+25. The Executive Control Network
+26. What Happens When Brain Networks Stop Coordinating Properly?
+27. Why Does the Brain Need Both Stability and Flexibility?
+28. Is Schizophrenia a Disorder of Brain Dynamics?
+
+## PART V — Biology and Development
+
+29. What Does Dopamine Actually Do?
+30. What Is the Dopamine Hypothesis of Schizophrenia?
+31. Glutamate and the NMDA Hypothesis
+32. Excitation and Inhibition: How Does the Brain Stay Balanced?
+33. PV Interneurons and Gamma Oscillations
+34. Is Schizophrenia a Neurodevelopmental Disorder?
+35. Why Does Schizophrenia Usually Begin in Late Adolescence or Early Adulthood?
+
+## PART VI — Cognition and Negative Symptoms
+
+36. What Are Negative Symptoms?
+37. Why Is Motivation So Difficult in Schizophrenia?
+38. What Is Anhedonia?
+39. What Happens to Cognitive Control in Schizophrenia?
+40. Why Can Schizophrenia Feel Like a Disorder of the Whole Mind?
+
+## PART VII — Computational Psychiatry and the Future
+
+41. What Is Computational Psychiatry?
+42. Can We Build Computational Models of Psychosis?
+43. What Is Active Inference?
+44. Can AI Help Us Understand Schizophrenia?
+45. Can Brain Imaging Find Biomarkers for Schizophrenia?
+46. What Can Dynamic Brain Connectivity Tell Us?
+47. The Precision Instability Framework: A New Hypothesis
+48. How Could We Test the Precision Instability Framework?
+49. Is There One Schizophrenia—or Many?
+50. What Have We Learned About the Mind?
