@@ -11,7 +11,7 @@
 **Status:** Published
 
 **Published article:**
-https://medium.com/tseosophry/12-cognitive-control-XXXXXXXXXXXXXXXXXXXXXXXX
+https://medium.com/tseosophry/12-cognitive-control-4e3d39f4e49d
 
 ---
 
